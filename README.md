@@ -22,7 +22,7 @@ A full-stack URL shortener built with:
 
 ### Backend
 npm install
-npm run dev
+npm start
 
 ### Frontend
 npm install
